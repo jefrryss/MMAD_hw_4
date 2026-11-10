@@ -12,3 +12,5 @@
 python -m pip install -r wine_app/requirements.txt
 python -m streamlit run wine_app/app.py
 ```
+# Передеплоил, проблема была с верисей питона я поставил 3.14, а нужно 3.13 
+https://mmadhw4-hz9xbdfckaqgvgxsp75jwh.streamlit.app/
